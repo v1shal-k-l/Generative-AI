@@ -1,0 +1,1 @@
+This Streamlit application allows users to upload an image and perform various image processing operations, such as grayscale conversion, blurring, sharpening, edge detection, resizing, cropping, rotation, flipping, and thresholding. Additionally, the app integrates with the Google Gemini API to generate content based on the processed image and a user-provided prompt.
