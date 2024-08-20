@@ -81,9 +81,6 @@ This Streamlit application enables users to upload an image and apply various im
 
 6. **Click the "Explain the Image to Me 👇" button** for a detailed analysis of the image, including object detection and a descriptive paragraph.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
