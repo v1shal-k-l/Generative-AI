@@ -68,9 +68,6 @@ This Streamlit application allows users to upload an image and extract text from
 
 6. **View the extracted text** displayed below the image.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
