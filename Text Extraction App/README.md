@@ -77,9 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Google Gemini API**: For providing advanced text extraction capabilities.
 - **Streamlit**: For building interactive web applications.
 - **Pillow**: For image processing functionalities.
-
-## Contact
-
-For questions or feedback, please contact [Your Name] at [Your Email Address].
-
 ---
