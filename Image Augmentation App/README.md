@@ -75,9 +75,6 @@ This Streamlit application allows users to upload an image and perform various i
 
 4. **Enter a prompt** and click the "Generate Content with Google Gemini" button to get generated content based on the image and prompt.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
